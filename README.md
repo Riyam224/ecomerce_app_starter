@@ -1,16 +1,14 @@
-# hw10_fashios_app
+# fashios_app
 
-A new Flutter project.
 
-## Getting Started
+**ecommerce app starter **
 
-This project is a starting point for a Flutter application.
+> splash screeb
 
-A few resources to get you started if this is your first Flutter project:
+> using bottom navigation bar  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> page view 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/Riyam224/ecomerce_app_starter/assets/71698431/7533c8cc-bf70-4766-96b4-5c0e14ca2dfe
+
